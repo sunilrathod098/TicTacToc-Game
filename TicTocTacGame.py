@@ -1,5 +1,5 @@
 import random
-
+#reating a dashboard 
 board = ["-", "-", "-",
          "-", "-", "-",
          "-", "-", "-"]
