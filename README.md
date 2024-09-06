@@ -1,6 +1,7 @@
 # TIC-TOC-TAC-Game
 
-Auther:-@sunilrathod098
+### Auther:-@sunilrathod098
+
 <br>
 This is a simple command-line Tic-Tac-Toe game written in Python. The player competes against the computer, with the player using the "X" symbol and the computer using the "O" symbol.
 
@@ -15,6 +16,7 @@ The positions on the board are represented by numbers 1 through 9:
 
 **markdown**
 Copy code
+<br> 
  1 | 2 | 3
 -----------
  4 | 5 | 6
