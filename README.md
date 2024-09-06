@@ -15,8 +15,11 @@ Board Layout
 The positions on the board are represented by numbers 1 through 9:
 
 **markdown**
+
 Copy code
+
 <br> 
+
  1 | 2 | 3
 -----------
  4 | 5 | 6
